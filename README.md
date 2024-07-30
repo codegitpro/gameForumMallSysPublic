@@ -14,7 +14,7 @@
 [https://www.bilibili.com/video/BV1XE421c7rw/](https://www.bilibili.com/video/BV1XE421c7rw/)**
 
 **毕业设计所有选题地址：
-[https://github.com/giteecode/allProject](https://github.com/giteecode/allProject)**
+[https://github.com/codegitpro/allProject](https://github.com/codegitpro/allProject)**
 
 ## 基于Java+Springboot+vue的游戏论坛商城管理系统(源代码+数据库+11000字论文)149
 
